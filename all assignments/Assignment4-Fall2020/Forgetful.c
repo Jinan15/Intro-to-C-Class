@@ -1,3 +1,8 @@
+/*
+    Name: Jinan Patel
+    Date: 9/14/2020
+    Assignment: Forgetful
+*/
 #include <stdio.h>
 #include <stdlib.h>
 
